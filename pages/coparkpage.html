@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  
+  <body>
+    <header>
+  	</header>
+		<style>
+		body{ 
+			background-image: url(https://libreshot.com/wp-content/uploads/2017/10/forest.jpg);
+		}
+
+		</style>	
+
+<!-- This creates the css of the park boxes-->
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.columns {
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+  color: black;
+}
+
+.price {
+  list-style-type: none;
+  border: 1px solid #eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.price:hover {
+  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+.price .header {
+  background-color: #111;
+  color: white;
+  font-size: 25px;
+}
+
+.price li {
+  border-bottom: 1px solid #eee;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+  
+}
+
+.price .grey {
+  background-color: #eee;
+  font-size: 20px;
+  color: black;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+  .columns {
+    width: 100%;
+  }
+}
+</style>
+
+	<!--This create the top home, about, etc icons-->
+		<style>
+* {box-sizing: border-box;}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  border: none;
+  font-size: 17px;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a, .topnav input[type=text] {
+    float: none;
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  
+  .topnav input[type=text] {
+    border: 1px solid #ccc;  
+  }
+}
+</style>
+</head>
+
+
+<div class="topnav">
+  <a class="active" href="../index.html">Home</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+  <input type="text" placeholder="Search..">
+  
+</div>
+
+<!--This colors the text of the paragraphs, headings, etc.-->
+<style>
+  body{
+  	color: white;
+	}
+	h1 {
+		color: white; text-align: center;
+	}
+	p {
+		color: white; font-size:80px; text-align: center;
+	}
+  select {
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 800px;
+
+</style>
+
+
+
+  <h1> Colorado </h1>
+  <p> List of  Parks</p>
+  
+<div class="columns">
+  <ul class="price">
+    <li class="header">Black Canyon of the Gunnison</li>
+    <li class="grey">National Park </li>
+    <li>Located in Montrose, CO</li>
+    <li>Big enough to be overwhelming, still intimate enough to feel the pulse of time, Black Canyon of the Gunnison exposes you to some of the steepest cliffs, oldest rock, and craggiest spires in North America. With two million years to work, the Gunnison River, along with the forces of weathering, has sculpted this vertical wilderness of rock, water, and sky.</li>
+    <li class="grey"><a href="#" class="button">Learn More</a></li>
+  </ul>
+</div>
+
+<div class="columns">
+  <ul class="price">
+    <li class="header">Great Sand Dunes</li>
+    <li class="grey"> National Park</li>
+    <li> Located in Mosca, CO</li>
+    <li>Open all day and night year round, the tallest dunes in North America are the centerpiece in a diverse landscape of grasslands, wetlands, conifer and aspen forests, alpine lakes, and tundra. Experience a starry sky on moonless nights, or a surreal walk on the dunes under bright full moonlight.</li>
+    <li class="grey"><a href="#" class="button">Learn More</a></li>
+  </ul>
+</div>
+
+<div class="columns">
+  <ul class="price">
+    <li class="header">Mesa Verde</li>
+    <li class="grey">National Park</li>
+    <li>Located in Cortez and Mancos, CO</li>
+    <li>Mesa Verde National Park was established in 1906 to preserve and interpret the archeological heritage of the Ancestral Pueblo people who made it their home for over 700 years, from 600 to 1300 CE. Today, the park protects nearly 5,000 known archeological sites, including 600 cliff dwellings. These sites are some of the most notable and best preserved in the United States.</li>
+    <li class="grey"><a href="#" class="button">Learn More</a></li>
+ </ul>
+</div>
+
+<div class="columns">
+  <ul class="price">
+    <li class="header">Rocky Mountain</li>
+    <li class="grey">National Park</li>
+    <li>Located in Este Park and Grand Lake, CO</li>
+    <li>Rocky Mountain National Park’s 415 square miles encompass and protect spectacular mountain environments. Enjoy Trail Ridge Road – which crests at over 12,000 feet including many overlooks to experience the subalpine and alpine worlds – along with over 300 miles of hiking trails, wildflowers, wildlife, starry nights, and fun times. In a world of superlatives, Rocky is on top!</li>
+    <li class="grey"><a href="#" class="button">Learn More</a></li>
+  </ul>
+</div>
+
+  <!-- This centers the text under the logo-->
+		<style>
+			p.main {
+				text-align: center;
+		</style>
+    
+    </head>
+  </html>
