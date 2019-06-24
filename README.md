@@ -14,7 +14,7 @@ My live URL for my deployed website for this challenge can be found at https://a
 Due to the time I spent learning and understanding how to use the NPS API and JSON, I unfortunately was not able to fully deploy all the park pages to their full status which included : displaying alerts, articles, events, news releases, and visitor center information from a selected park.
 
 This section is a steady updating list of states that have all their park pages fully deployed and uploaded (which are denoted by the check next to the state name):
-                                              **30 out of 61 parks fully deployed**
+                                              **31 out of 61 parks fully deployed**
 - Alaska ✓
 - American Samoa ✓
 - Arizona ✓
@@ -23,7 +23,7 @@ This section is a steady updating list of states that have all their park pages 
 - Colorado ✓
 - Florida ✓
 - Hawaii ✓
-- Idaho
+- Idaho ✓
 - Indiana
 - Kentucky
 - Maine
