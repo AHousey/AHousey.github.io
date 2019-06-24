@@ -21,7 +21,7 @@ This section is a steady updating list of states that have all their park pages 
 - Arkansas ✓
 - California ✓
 - Colorado ✓
-- Florida
+- Florida ✓
 - Hawaii
 - Idaho
 - Indiana
