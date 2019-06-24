@@ -1,0 +1,553 @@
+
+.lp-container {
+    box-sizing: border-box;
+    background: #ccc;
+    text-align: center;
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+    color: black;
+}
+.lptitle {
+    list-style-type: none;
+  border: 1px solid #eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  background-color: #111;
+  color: white;
+  font-size: 25px;
+}
+
+.lpsubject {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+    
+}
+
+.lpgradelevel {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+}
+
+.lpobjective {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+}
+
+.lpduration {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+}
+
+
+.lp-container2 {
+  box-sizing: border-box;
+  background: #ccc;
+  text-align: center;
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+  color: black;
+}
+.lptitle2 {
+  list-style-type: none;
+border: 1px solid #eee;
+margin: 0;
+padding: 0;
+-webkit-transition: 0.3s;
+transition: 0.3s;
+background-color: #111;
+color: white;
+font-size: 25px;
+}
+
+.lpsubject2 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+  
+}
+
+.lpgradelevel2 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpobjective2 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpduration2 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+
+.lp-container3 {
+  box-sizing: border-box;
+  background: #ccc;
+  text-align: center;
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+  color: black;
+}
+.lptitle3 {
+  list-style-type: none;
+border: 1px solid #eee;
+margin: 0;
+padding: 0;
+-webkit-transition: 0.3s;
+transition: 0.3s;
+background-color: #111;
+color: white;
+font-size: 25px;
+}
+
+.lpsubject3 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+  
+}
+
+.lpgradelevel3 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpobjective3 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpduration3 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+
+.lp-container4 {
+  box-sizing: border-box;
+  background: #ccc;
+  text-align: center;
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+  color: black;
+}
+.lptitle4 {
+  list-style-type: none;
+border: 1px solid #eee;
+margin: 0;
+padding: 0;
+-webkit-transition: 0.3s;
+transition: 0.3s;
+background-color: #111;
+color: white;
+font-size: 25px;
+}
+
+.lpsubject4 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+  
+}
+
+.lpgradelevel4 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpobjective4 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpduration4 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+
+.lp-container5 {
+  box-sizing: border-box;
+  background: #ccc;
+  text-align: center;
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+  color: black;
+}
+.lptitle5 {
+  list-style-type: none;
+border: 1px solid #eee;
+margin: 0;
+padding: 0;
+-webkit-transition: 0.3s;
+transition: 0.3s;
+background-color: #111;
+color: white;
+font-size: 25px;
+}
+
+.lpsubject5 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+  
+}
+
+.lpgradelevel5 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpobjective5 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpduration5 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+
+.lp-container6 {
+  box-sizing: border-box;
+  background: #ccc;
+  text-align: center;
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+  color: black;
+}
+.lptitle6 {
+  list-style-type: none;
+border: 1px solid #eee;
+margin: 0;
+padding: 0;
+-webkit-transition: 0.3s;
+transition: 0.3s;
+background-color: #111;
+color: white;
+font-size: 25px;
+}
+
+.lpsubject6 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+  
+}
+
+.lpgradelevel6 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpobjective6 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpduration6 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+
+.lp-container7 {
+  box-sizing: border-box;
+  background: #ccc;
+  text-align: center;
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+  color: black;
+}
+.lptitle7 {
+  list-style-type: none;
+border: 1px solid #eee;
+margin: 0;
+padding: 0;
+-webkit-transition: 0.3s;
+transition: 0.3s;
+background-color: #111;
+color: white;
+font-size: 25px;
+}
+
+.lpsubject7 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+  
+}
+
+.lpgradelevel7 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpobjective7 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lpduration7 {
+  background-color: #eee;
+font-size: 20px;
+color: black;
+}
+
+.lp-container8 {
+    box-sizing: border-box;
+    background: #ccc;
+    text-align: center;
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+    color: black;
+  }
+  .lptitle8 {
+    list-style-type: none;
+  border: 1px solid #eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  background-color: #111;
+  color: white;
+  font-size: 25px;
+  }
+  
+  .lpsubject8 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+    
+  }
+  
+  .lpgradelevel8 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+  }
+  
+  .lpobjective8 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+  }
+  
+  .lpduration8 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+  }
+
+  .lp-container9 {
+    box-sizing: border-box;
+    background: #ccc;
+    text-align: center;
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+    color: black;
+  }
+  .lptitle9 {
+    list-style-type: none;
+  border: 1px solid #eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  background-color: #111;
+  color: white;
+  font-size: 25px;
+  }
+  
+  .lpsubject9 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+    
+  }
+  
+  .lpgradelevel9 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+  }
+  
+  .lpobjective9 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+  }
+  
+  .lpduration9 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+  }
+
+  .lp-container10 {
+    box-sizing: border-box;
+    background: #ccc;
+    text-align: center;
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+    color: black;
+  }
+  .lptitle10 {
+    list-style-type: none;
+  border: 1px solid #eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  background-color: #111;
+  color: white;
+  font-size: 25px;
+  }
+  
+  .lpsubject10 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+    
+  }
+  
+  .lpgradelevel10 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+  }
+  
+  .lpobjective10 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+  }
+  
+  .lpduration10 {
+    background-color: #eee;
+  font-size: 20px;
+  color: black;
+  }
+
+
+<style>
+body{ 
+    background-image: url(https://libreshot.com/wp-content/uploads/2017/10/forest.jpg);
+}
+
+</style>	
+
+<style>
+* {box-sizing: border-box;}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  border: none;
+  font-size: 17px;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a, .topnav input[type=text] {
+    float: none;
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  
+  .topnav input[type=text] {
+    border: 1px solid #ccc;  
+  }
+}
+</style>
+
+<style>
+  body{
+  	color: white;
+	}
+	h1 {
+		color: white; text-align: center;
+	}
+	p {
+		color: white; font-size:80px; text-align: center;
+	}
+  select {
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 800px;
+
+  }
+
+</style>
