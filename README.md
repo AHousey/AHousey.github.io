@@ -2,7 +2,7 @@
 
 This is my entry for the 2019 Capital One Software Engineering Summit Challenge. The goal of this challenge was to use the National Park Service API, as well as any other public APIs needed, and build a deployable web app that would allow users to have the best National Park experience possible with an intuitive, easy to navigate interface.
 
-My live URl for my deployed website for this challenge can be found at https://ahousey.github.io/
+My live URL for my deployed website for this challenge can be found at https://ahousey.github.io/
 
 # What I Gained From The Challenge
 - I learned how to code in JavaScript and how to work with JavaScript Object Notation ( JSON ) while processing the data from the National Park Service API.
