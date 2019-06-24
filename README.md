@@ -11,7 +11,7 @@ My live URL for my deployed website for this challenge can be found at https://a
 
 # Current Park Pages Fully Deployed
 
-Due to the time I spent learning and understanding how to use the NPS API and JSON, I unfortunaly was not able to fully deploy all the park pages to their full status which included : displaying alerts, articles, events, news releases, and vistor center information from a selected park.
+Due to the time I spent learning and understanding how to use the NPS API and JSON, I unfortunately was not able to fully deploy all the park pages to their full status which included : displaying alerts, articles, events, news releases, and visitor center information from a selected park.
 
 This section is a steady updating list of states that have all their park pages fully deployed and uploaded (which are denoted by the check next to the state name):
 
